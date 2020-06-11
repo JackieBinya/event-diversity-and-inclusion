@@ -6,6 +6,8 @@ Date        | Event                                            | Badge
 ------------|--------------------------------------------------|--------------------
 Feb-01-2020 | Mock Event #1 (nowhere)                          | ![Pending]
 Feb-16-2020 | Mock Event #2 (nowhere)
+06-30-2020  | ReactConMock  Capetown
+
 <!-- ADD EVENT
 
 THINGS TO KEEP IN MIND:
